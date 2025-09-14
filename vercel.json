@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/minhaprofissaodigital", "destination": "/" },
+    { "source": "/minhaprofissaodigital/:path*", "destination": "/:path*" }
+  ]
+}
